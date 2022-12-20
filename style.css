@@ -70,7 +70,7 @@ body {
 }
 
 .btn {
-    background-color: 
+    background-color: #3498db;
     color: #fff;
     border: 0;
     border-radius: 6px;
@@ -90,6 +90,6 @@ body {
 }
 
 .btn:disabled {
-    background-color: #b49d9d;
+    background-color: #6a5e5e;
     cursor: not-allowed;
 }
